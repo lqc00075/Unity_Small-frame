@@ -1,0 +1,655 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|c:\\users\\lqc00075\\unity\u9879\u76EE\u96C6\u5408\\untiyteachnetdemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|c:\\users\\lqc00075\\unity\u9879\u76EE\u96C6\u5408\\untiyteachnetdemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\input\\testinputmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\input\\testinputmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|c:\\users\\lqc00075\\unity\u9879\u76EE\u96C6\u5408\\untiyteachnetdemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\scenes\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\scenes\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|c:\\users\\lqc00075\\unity\u9879\u76EE\u96C6\u5408\\untiyteachnetdemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\musicmanager\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\musicmanager\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\resourcesmanager\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\resourcesmanager\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|c:\\users\\lqc00075\\unity\u9879\u76EE\u96C6\u5408\\untiyteachnetdemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\scenes\\testchangescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\scenes\\testchangescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\musicmanager\\testmusicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\musicmanager\\testmusicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\testpoolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\testpoolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\delaypush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\pool\\delaypush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\eventcentermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\eventcentermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\testeventcentermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\testeventcentermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\event\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\resourcesmanager\\testresmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\resourcesmanager\\testresmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\testmonomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\testmonomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\monomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\monomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\monocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\mono\\monocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\basemanager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\basemanager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\panel_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\panel_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\testuimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\testuimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\scripts\\\u7F51\u7EDC\u901A\u4FE1\\ftp\\ftpmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60BC92B-7F67-7B64-314A-69E6EE75D585}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u7F51\u7EDC\u901A\u4FE1\\ftp\\ftpmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\FTP\\FtpMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FTP\\FtpMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50342C5F-EF30-03EF-3630-BDDA12C03078}|Assembly-CSharp-Editor.csproj|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\assets\\editor\\protocolbuffers\\protobuftool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50342C5F-EF30-03EF-3630-BDDA12C03078}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\protocolbuffers\\protobuftool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\TestWWW.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnityWebRequest\\TestWWW.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\HttpMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HTTP\\HttpMgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\TestHTTP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HTTP\\TestHTTP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestInputMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\TestInputMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\TestInputMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\TestInputMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\TestInputMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:00:14.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\InputManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Input\\InputManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:00:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\TestChangeScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\TestChangeScene.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\TestChangeScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\TestChangeScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:58:11.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScenesManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\ScenesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\ScenesManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\ScenesManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Scenes\\ScenesManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:55:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\MusicManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:57:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestMusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\TestMusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\TestMusicManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\TestMusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\MusicManager\\TestMusicManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:52:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DelayPush.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\DelayPush.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\DelayPush.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\DelayPush.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\DelayPush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:23:36.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestPoolMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\TestPoolMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\TestPoolMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\TestPoolMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\TestPoolMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:22:31.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoolMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\PoolMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\PoolMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\PoolMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Pool\\PoolMgr.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwD0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:22:19.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestEventCenterMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\TestEventCenterMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\TestEventCenterMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\TestEventCenterMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\TestEventCenterMgr.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:11:00.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventCenterMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\EventCenterMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\EventCenterMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\EventCenterMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\EventCenterMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:09:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Task_4.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_4.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:09:00.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task_3.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_3.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:08:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task_2.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_2.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:08:56.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task_1.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_1.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Event\\Task_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:08:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestResMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\TestResMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\TestResMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\TestResMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\TestResMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:58:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\BasePanel.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\BasePanel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:56:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Panel_1.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\Panel_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\Panel_1.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\Panel_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\Panel_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:55:48.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestUIMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\TestUIMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\TestUIMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\TestUIMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\TestUIMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:55:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\UIManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\UIManager\\UIManager.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA+wG0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:52:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestMonoMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\TestMonoMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\TestMonoMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\TestMonoMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\TestMonoMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:51:36.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MonoManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:51:22.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MonoController.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoController.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\Mono\\MonoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:51:20.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\BaseManager\\BaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\BaseManager\\BaseManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\BaseManager\\BaseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\BaseManager\\BaseManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:51:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceManager.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\ResourceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\ResourceManager.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\ResourceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7A0B\u5E8F\u5C0F\u6846\u67B6\\ResourcesManager\\ResourceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:50:02.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FtpMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7F51\u7EDC\u901A\u4FE1\\FTP\\FtpMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u7F51\u7EDC\u901A\u4FE1\\FTP\\FtpMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u7F51\u7EDC\u901A\u4FE1\\FTP\\FtpMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u7F51\u7EDC\u901A\u4FE1\\FTP\\FtpMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:58:54.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FtpMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\FTP\\FtpMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FTP\\FtpMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\FTP\\FtpMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FTP\\FtpMgr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:04:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NetTool.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\NetTool.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:54:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEDAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:53:22.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\Test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:49:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TestProtoBufData.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5229\u7528ProtoBuf\u5DE5\u5177\u8BFB\u53D6\u534F\u8BAE\u4FE1\u606F\\TestProtoBufData.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA4wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:47:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProtobufTool.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Editor\\ProtocolBuffers\\ProtobufTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\ProtocolBuffers\\ProtobufTool.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Editor\\ProtocolBuffers\\ProtobufTool.cs",
+              "RelativeToolTip": "Assets\\Editor\\ProtocolBuffers\\ProtobufTool.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:38:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TestProtocolMsg.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u6D4B\u8BD5\u624B\u52A8\u5199\u7684\u6D88\u606F\u7C7B\u662F\u5426\u6B63\u786E\\TestProtocolMsg.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:25:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NetWWWMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityWebRequest\\NetWWWMgr.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAwwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:00:52.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TestWWW.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\TestWWW.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityWebRequest\\TestWWW.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\UnityWebRequest\\TestWWW.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityWebRequest\\TestWWW.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:00:45.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HttpMgr.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\HttpMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HTTP\\HttpMgr.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\HttpMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HTTP\\HttpMgr.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAywKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:30:42.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TestHTTP.cs",
+              "DocumentMoniker": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\TestHTTP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HTTP\\TestHTTP.cs",
+              "ToolTip": "C:\\Users\\LQC00075\\Unity\u9879\u76EE\u96C6\u5408\\UntiyTeachNetDemo\\Assets\\Scripts\\HTTP\\TestHTTP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HTTP\\TestHTTP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:19:13.197Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
